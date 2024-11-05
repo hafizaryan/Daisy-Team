@@ -1,16 +1,22 @@
-## Hi there 👋
+# Daysi - Dermatological AI System for Your Skin
 
-<!--
-**Daisy-Team/Daisy-Team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Daysi (Dermatological AI System for Your Skin) is an advanced AI-powered application designed to assist in detecting skin diseases such as tinea versicolor and ringworm. By leveraging machine learning algorithms, Daysi aims to provide an efficient, accessible, and reliable tool for both medical professionals and individuals concerned about their skin health.
 
-Here are some ideas to get you started:
+## Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI-Powered Skin Disease Detection**: Identify skin conditions like tinea versicolor and ringworm with high accuracy.
+- **User-Friendly Interface**: Simple and intuitive design for easy usage.
+- **Data Privacy**: Securely handles user data while prioritizing privacy.
+- **Educational Resources**: Informative content about common skin diseases, symptoms, and preventative measures.
+
+## Getting Started
+
+### Prerequisites
+To set up and run Daysi locally, ensure you have the following installed:
+- Python 3.8+
+- [Additional libraries or frameworks relevant to your app, e.g., TensorFlow, Flask]
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/daysi.git
