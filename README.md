@@ -1,6 +1,6 @@
 # Daysi - Dermatological AI System for Your Skin
 
-Daysi (Dermatological AI System for Your Skin) is an advanced AI-powered application designed to assist in detecting skin diseases such as tinea versicolor and ringworm. By leveraging machine learning algorithms, Daysi aims to provide an efficient, accessible, and reliable tool for both medical professionals and individuals concerned about their skin health.
+Project DAISY is a project that focused on Indonesian citizen’s dermatological problem. DAISY stands for Dermatological AI System for Your Skin.
 
 ## Features
 
