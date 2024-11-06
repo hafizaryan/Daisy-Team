@@ -1,4 +1,4 @@
-# Daysi - Dermatological AI System for Your Skin
+# Daisy - Dermatological AI System for Your Skin
 
 Project DAISY is a project that focused on Indonesian citizen’s dermatological problem. DAISY stands for Dermatological AI System for Your Skin.
 
