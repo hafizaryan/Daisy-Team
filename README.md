@@ -8,3 +8,8 @@ Project DAISY is a project that focused on Indonesian citizen’s dermatological
 - **User-Friendly Interface**: Simple and intuitive design for easy usage.
 - **Data Privacy**: Securely handles user data while prioritizing privacy.
 - **Educational Resources**: Informative content about common skin diseases, symptoms, and preventative measures.
+
+## Members
+
+- **Mobile Development**: Dani & Melinda
+- **Machine Learning**: Dwi, Taufik, & Ubai
