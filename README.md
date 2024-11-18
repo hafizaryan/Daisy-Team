@@ -8,7 +8,7 @@ Project DAISY is a project that focused on Indonesian citizen’s dermatological
 
 ## Features
 
-- **AI-Powered Skin Disease Dani Bacot**: Identify skin conditions like tinea versicolor and ringworm with high accuracy.
+- **AI-Powered Skin Disease**: Identify skin conditions like tinea versicolor and ringworm with high accuracy.
 - **User-Friendly Interface**: Simple and intuitive design for easy usage.
 - **Data Privacy**: Securely handles user data while prioritizing privacy.
 - **Educational Resources**: Informative content about common skin diseases, symptoms, and preventative measures.
