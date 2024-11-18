@@ -1,4 +1,8 @@
+<img src="banner.png">
+
 # Daisy - Dermatological AI System for Your Skin
+
+## C242-PS182 [Product-Based Capstone - Bangkit 2024 Batch 2]
 
 Project DAISY is a project that focused on Indonesian citizen’s dermatological problem. DAISY stands for Dermatological AI System for Your Skin.
 
